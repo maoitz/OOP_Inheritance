@@ -1,6 +1,6 @@
 namespace OOP___Arv.Interfaces;
 
-public interface WildAnimal
+public interface IWildAnimal
 {
-    
+    void Hunt();
 }

@@ -1,6 +1,6 @@
 namespace OOP___Arv.Interfaces;
 
-public interface DomesticAnimal
+public interface IDomesticAnimal
 {
-    
+    void BeFriendly();
 }
